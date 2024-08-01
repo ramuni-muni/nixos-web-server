@@ -115,7 +115,7 @@
   services.httpd.extraConfig = "
     <VirtualHost *:80>
       ServerAdmin webmaster@example.com
-      ServerName mekardata.my.id
+      ServerName example.com
       DocumentRoot /home/ramuni/www    
         <Directory /home/ramuni/www>
           DirectoryIndex index.php index.html
